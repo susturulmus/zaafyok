@@ -1,1 +1,1 @@
-# zaafyok
+v12 Las4o publ1c bot altyapısı
